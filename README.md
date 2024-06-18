@@ -1,8 +1,5 @@
 # Power Management Script Documentation
 
-## Overview
-This Python script allows users to choose a power management action (shutdown, hibernate, or sleep) and specify a delay before executing the chosen action. It provides a countdown display during the delay period.
-
 ## Usage
 1. **Choosing Power Action:**
    - Users are prompted to select one of the following actions:
